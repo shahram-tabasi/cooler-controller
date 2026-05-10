@@ -1,6 +1,4 @@
-# 🧊 CoolerController – Version 2
-
-> IN THE NAME OF ALLAH
+# 🧊 CoolerController 
 
 ---
 

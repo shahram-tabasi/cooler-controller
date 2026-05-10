@@ -67,4 +67,4 @@ and runs with a **16 MHz external crystal oscillator**.
 
 ## 📜 License
 
-Add your license information here.
+
